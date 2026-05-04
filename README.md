@@ -75,11 +75,9 @@ The system follows a layered architecture:
 
 ---
 
-## 🗂️ Project Structure
-
-
 ## 📁 Project Structure
 
+```
 AmbulanceBookingService/
 │
 ├── src/
@@ -101,7 +99,7 @@ AmbulanceBookingService/
 ├── .classpath
 ├── .project
 └── README.md
-
+```
 
 
 ---
