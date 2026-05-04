@@ -78,24 +78,26 @@ The system follows a layered architecture:
 ## 🗂️ Project Structure
 
 
+## 📁 Project Structure
+
 AmbulanceBookingService/
 │
 ├── src/
-│ └── com/
-│ ├── controller/ → Servlets (request handling)
-│ ├── dao/ → Database operations
-│ ├── model/ → Java classes / entities
-│ └── util/ → DB connection utility
+│   └── com/
+│       ├── controller/    # Servlets (request handling)
+│       ├── dao/           # Database operations
+│       ├── model/         # Java classes / entities
+│       └── util/          # DB connection utility
 │
 ├── WebContent/
-│ ├── css/ → Stylesheets
-│ ├── js/ → JavaScript files
-│ ├── images/ → Static images
-│ ├── pages/ → JSP pages
-│ └── WEB-INF/
-│ └── web.xml → Configuration file
+│   ├── css/               # Stylesheets
+│   ├── js/                # JavaScript files
+│   ├── images/            # Static images
+│   ├── pages/             # JSP pages
+│   └── WEB-INF/
+│       └── web.xml        # Configuration file
 │
-├── build/ → Compiled class files
+├── build/                 # Compiled class files
 ├── .classpath
 ├── .project
 └── README.md
