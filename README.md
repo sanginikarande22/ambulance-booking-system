@@ -180,9 +180,9 @@ to maintain latest driver location.
 B.E. Computer Engineering  
 
 🔗 GitHub: https://github.com/sanginikarande22  
-🔗 LinkedIn: linkedin.com/in/sangini-karande-72aa1b2a1  
-🔗 Portfolio: https://sanginikarande22.github.io/
-📧 Email: sanginikarande@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sangini-karande-72aa1b2a1/  
+🌐 Portfolio: https://sanginikarande22.github.io/   
+📧 Email: sanginikarande@gmail.com
 
 ---
 
